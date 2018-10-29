@@ -29,9 +29,9 @@ composer run-script test
 
 this command should end up with
 
->ERRORS!
-
->Tests: 9, Assertions: 5, Errors: 4, Failures: 5.
+> ERRORS!
+>
+> Tests: 9, Assertions: 5, Errors: 4, Failures: 5.
 
 then you can open your $favoriteEditor and fix those tests :)
 
