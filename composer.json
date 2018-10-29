@@ -12,7 +12,7 @@
       }
     },
     "scripts": {
-      "test": "./vendor/bin/phpunit --bootstrap vendor/autoload.php --testdox tests",
+      "test": "./vendor/bin/phpunit",
       "pack": "tar -czf $(whoami).tar.gz --exclude '.git' --exclude 'vendor' *"
     },
     "require": {},
